@@ -136,7 +136,7 @@ eval $(ssh-agent -s)
 ssh-add ~/.ssh/github_desktop
 
 # >>> oh-my-posh initialize <<<
-eval "$(oh-my-posh init bash --config ~/.poshthemes/dario_nord_theme.json)"
+eval "$(oh-my-posh init bash --config ~/.poshthemes/my_posh_theme.json)"
 # >>> oh-my-posh initialize <<<
 
 # >>> Set an alias "dotfiles" for the configuration repository <<<
