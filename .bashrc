@@ -140,4 +140,4 @@ eval "$(oh-my-posh init bash --config ~/.poshthemes/dario_nord_theme.json)"
 # >>> oh-my-posh initialize <<<
 
 # >>> Set an alias "dotfiles" for the configuration repository <<<
-alias dotfiles='/usr/bin/git --git-dir=/home/kai/dotfiles_unix --work-tree=/home/kai'
+alias configfiles='/usr/bin/git --git-dir=/home/kai/dotfiles_unix --work-tree=/home/kai'
